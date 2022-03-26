@@ -1,0 +1,208 @@
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v02\CheOreSono_v01\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v03\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v04\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v05\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v06\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v07\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v08\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v09\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\CheOreSono_v10\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v12\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v13\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v15\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\bin\Debug\CheOreSono_v01.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\bin\Debug\CheOreSono_v01.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\App.g.cs
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\CheOreSono_v01_MarkupCompile.lref
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\MainWindow.baml
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\CheOreSono_v01.g.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\CheOreSono_v01.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\CheOreSono_v01.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\CheOreSono_v01.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\CHE ORE SONO\CheOreSono_v17\CheOreSono_v01\obj\Debug\CheOreSono_v01.pdb

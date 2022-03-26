@@ -1,0 +1,41 @@
+Versione # 05
+Nella versione 05 lavoro sulla lancetta delle ore
+
+Versione #06
+Dispongo meglio i pulsanti per regolare i minuti e l'ora.
+
+Versione # 07
+Inserisco una label che mi indichi l'ora impostata.
+
+Versione # 08
+Genero un orario casuale
+
+Versione # 09
+Sposto la lancetta delle ore inizialmente sulle 12 perché
+è più facile gestire il cambiamento delle ore.
+
+Versione # 10
+Contengo le ore e i minuti con una funzione che fa questo:
+se le ore sono 13 le trasforma in 13 - 12;
+se i minuti sono 64 li trasforma in 64 - 60;
+
+Versione # 11
+Controllo se l'ora è stata scritta correttamente.
+
+Versione # 13
+Miglioro l'aspetto dei due label al fondo (la visualizzazione dell'ora in due formati e il punteggio)
+
+Versione # 14
+Metto un bello sfondo nell'app.
+
+Versione # 15
+Inserisco i suoni
+
+Versione # 16
+Abbellisco i bottoni
+
+Versione # 17
+Cambio la disposizione dei bottoni
+
+
+
